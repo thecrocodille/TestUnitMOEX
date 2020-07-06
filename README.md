@@ -9,4 +9,4 @@
 Сборка и запуск 
 
 Перейти в директорию /TestUnitMOEX и выполнить mvn clean package, далее перейти в директорию /target 
-и запустить jar-файл командой java -jar converter-1.0.jar 
+и запустить jar-файл командой java -jar converter.jar 
